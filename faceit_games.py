@@ -165,7 +165,7 @@ class FaceitStatsGrabber:
 if __name__ == "__main__":
     # Replace with your actual API key
     # Get from https://developers.faceit.com/
-    API_KEY = ""
+    API_KEY = "YOUR_API_KEY"
 
     # Initialize the stats grabber
     stats_grabber = FaceitStatsGrabber(API_KEY)
